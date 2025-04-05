@@ -8,7 +8,7 @@ potential to analyze complex patterns in data, improving identification accuracy
 contributing to safer mushroom picking.
 
 # Dataset Overview
-Dataset Overview 
+
 This dataset is based on the physical properties of mushrooms (hat shape, surface structure, color, 
 body height, etc.) according to which it indicates whether they are poisonous or edible. The data set is 
 taken from the UCI Machine Learning Repository and contains both categorical and numerical data. 
